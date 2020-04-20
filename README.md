@@ -7,8 +7,6 @@ LM35 is an analog temperature sensor. This means the output of LM35 is an analog
 
 Assuming that LM35 is connected to ADC 4 ,
 
--Clk /64,
-
--Internal Vref and
-
--Right justified 
+- Clk /64,
+- Internal Vref and
+- Right justified 
